@@ -1,1 +1,1 @@
-# javascript_project
+admin password = 1234
